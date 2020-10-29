@@ -1,0 +1,16 @@
+footer{
+    position: fixed;
+    bottom: 0vh;
+    min-height: 9vh;
+    text-align: center;
+    background-color: #02193a;
+    width: 100%;
+    z-index: 3;
+}
+.footer-info{
+    border-radius: 66px;
+    width: 32px;
+    margin: 10px 15px;
+    height: 32px;
+    cursor: pointer;
+}

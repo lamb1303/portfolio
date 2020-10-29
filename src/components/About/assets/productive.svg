@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="productive.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9269">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9265" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop9267" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3366"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#5c6b76;stop-opacity:1;"
+         offset="0"
+         id="stop3364" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3366"
+       id="linearGradient3368"
+       x1="61.259764"
+       y1="214.56373"
+       x2="97.965417"
+       y2="214.56373"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9269"
+       id="linearGradient9271"
+       x1="68.158109"
+       y1="202.2131"
+       x2="161.06813"
+       y2="202.2131"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="508.3656"
+     inkscape:cy="535.89671"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g275"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1314"
+     inkscape:window-height="697"
+     inkscape:window-x="52"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g275"
+       transform="matrix(1.5503729,0,0,1.5510134,-51.463624,-57.06952)">
+      <image
+         preserveAspectRatio="none"
+         inkscape:svg-dpi="96"
+         width="135.46666"
+         height="135.46666"
+         xlink:href="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEyIDUxMiIgaGVp Z2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDov L3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0zNTUuNDM4IDM3OS4wNjMtNzgu NTkxLTEzMC45ODZjLTEuMDIxLTEuNzAyLTIuODYxLTIuNzQ0LTQuODQ2LTIuNzQ0cy0zMC4wMTUg MC0zMiAwLTMuODI1IDEuMDQyLTQuODQ2IDIuNzQ0bC03OC41OTEgMTMwLjk4NmMtMS4yNCAyLjA2 Ny0xLjg5NiA0LjQzMy0xLjg5NiA2Ljg0NCAwIDUuMDc3IDIuODk0IDkuNzAyIDcuNDQ1IDExLjk1 MiAxNC4zMDQgNy4wNzMgMjkuNzExIDEyLjI0OCA0NS44ODggMTUuMjIydjY2LjkxOWMwIDguODM3 IDcuMTYzIDE2IDE2IDE2aDY0YzguODM3IDAgMTYtNy4xNjMgMTYtMTZ2LTY2LjkxOWMxNi4xNzct Mi45NzUgMzEuNTg0LTguMTQ5IDQ1Ljg4OC0xNS4yMjIgNC41NTEtMi4yNSA3LjQ0NS02Ljg3NSA3 LjQ0NS0xMS45NTItLjAwMS0yLjQxMS0uNjU2LTQuNzc3LTEuODk2LTYuODQ0eiIgZmlsbD0iI2U2 NDE3OCIvPjwvZz48Zz48cGF0aCBkPSJtMjcxLjY1OCAxNmMtNS4yNjEuMDEtMTAuNDY2LjI2Ny0x NS42MTIuNzM1LTUuMzk3LS40ODgtMTAuODYxLS43NDUtMTYuMzg4LS43MzUtOTcuMjQuMTg1LTE3 Ni4zOTEgODAuMTI3LTE3NS42NTMgMTc3LjM2NC40MzMgNTYuOTcxIDI3Ljk0NyAxMDcuNDgyIDcw LjI5MyAxMzkuMzQxIDIuODU4IDIuMTUgNi4zNDkgMy4yOTUgOS45MjYgMy4yOTVoMzJjNS44MTcg MCAxMS4yMDctMy4wNTIgMTQuMTk5LTguMDM5bDY1LjU3Ny0xMDkuMjk0IDY1LjU3NiAxMDkuMjk0 YzIuOTkzIDQuOTg4IDguMzgzIDguMDM5IDE0LjE5OSA4LjAzOWgzMmMzLjU3OCAwIDcuMDctMS4x NDYgOS45MjktMy4yOTcgNDIuNjgzLTMyLjExMyA3MC4yOTYtODMuMTc2IDcwLjI5Ni0xNDAuNzAz IDAtOTcuMzE2LTc4Ljk4My0xNzYuMTg1LTE3Ni4zNDItMTc2eiIgZmlsbD0iIzI4OWJjMyIvPjwv Zz48Zz48cGF0aCBkPSJtMjM5LjY1OCAxNmMtOTcuMjQuMTg1LTE3Ni4zOTEgODAuMTI3LTE3NS42 NTMgMTc3LjM2NC40MzMgNTYuOTcxIDI3Ljk0NyAxMDcuNDgyIDcwLjI5MyAxMzkuMzQxIDIuODU4 IDIuMTUgNi4zNDkgMy4yOTUgOS45MjYgMy4yOTUgNS44MTcgMCAxMS4yMDctMy4wNTIgMTQuMTk5 LTguMDM5bDc2LjQzMS0xMjcuMzg2YzIuMzMtMy44ODQgNy45NTktMy44ODQgMTAuMjkgMGw3Ni40 MzEgMTI3LjM4NmMyLjk5MyA0Ljk4OCA4LjM4MyA4LjAzOSAxNC4xOTkgOC4wMzkgMy41NzggMCA3 LjA3LTEuMTQ2IDkuOTI5LTMuMjk3IDQyLjY4NC0zMi4xMTMgNzAuMjk3LTgzLjE3NiA3MC4yOTct MTQwLjcwMyAwLTk3LjMxNi03OC45ODMtMTc2LjE4NS0xNzYuMzQyLTE3NnoiIGZpbGw9IiMwMGQy ZDIiLz48L2c+PGcgZmlsbD0iIzI4OWJjMyI+PHBhdGggZD0ibTIxMC42NjcgNzJjLTEzLjIzNCAw LTI0IDEwLjc2Ni0yNCAyNCAwIDYuMTQyIDIuMzIyIDExLjc1MSA2LjEzMSAxNi0zLjgwOSA0LjI0 OS02LjEzMSA5Ljg1OC02LjEzMSAxNiAwIDEzLjIzNCAxMC43NjYgMjQgMjQgMjRzMjQtMTAuNzY2 IDI0LTI0YzAtNi4xNDItMi4zMjItMTEuNzUxLTYuMTMxLTE2IDMuODA5LTQuMjQ5IDYuMTMxLTku ODU4IDYuMTMxLTE2IDAtMTMuMjM0LTEwLjc2Ny0yNC0yNC0yNHptMCAxNmM0LjQxMSAwIDggMy41 ODkgOCA4cy0zLjU4OSA4LTggOC04LTMuNTg5LTgtOCAzLjU4OC04IDgtOHptMCA0OGMtNC40MTEg MC04LTMuNTg5LTgtOHMzLjU4OS04IDgtOCA4IDMuNTg5IDggOC0zLjU4OSA4LTggOHoiLz48cGF0 aCBkPSJtMjY5LjMzMyA3MmMtMTMuMjMzIDAtMjQgMTAuNzY2LTI0IDI0djMyYzAgMTMuMjM0IDEw Ljc2NiAyNCAyNCAyNHMyNC0xMC43NjYgMjQtMjR2LTMyYzAtMTMuMjM0LTEwLjc2Ny0yNC0yNC0y NHptOCA1NmMwIDQuNDExLTMuNTg5IDgtOCA4cy03Ljk5OS0zLjU4OS03Ljk5OS04di0zMmMwLTQu NDExIDMuNTg4LTggNy45OTktOHM4IDMuNTg5IDggOHoiLz48L2c+PGc+PHBhdGggZD0ibTMyMy40 MzggMzc5LjA2My03OC41OTEtMTMwLjk4NmMtMS4wMjEtMS43MDItMi44NjEtMi43NDQtNC44NDYt Mi43NDRzLTMuODI1IDEuMDQyLTQuODQ2IDIuNzQ0bC03OC41OTEgMTMwLjk4NmMtMS4yNCAyLjA2 Ny0xLjg5NiA0LjQzMy0xLjg5NiA2Ljg0NCAwIDUuMDc3IDIuODk0IDkuNzAyIDcuNDQ1IDExLjk1 MiAxNC4zMDQgNy4wNzMgMjkuNzExIDEyLjI0OCA0NS44ODggMTUuMjIydjY2LjkxOWMwIDguODM3 IDcuMTYzIDE2IDE2IDE2aDMyYzguODM3IDAgMTYtNy4xNjMgMTYtMTZ2LTY2LjkxOWMxNi4xNzct Mi45NzUgMzEuNTg0LTguMTQ5IDQ1Ljg4OC0xNS4yMjIgNC41NTEtMi4yNSA3LjQ0NS02Ljg3NSA3 LjQ0NS0xMS45NTItLjAwMS0yLjQxMS0uNjU2LTQuNzc3LTEuODk2LTYuODQ0eiIgZmlsbD0iI2Zm NmU5MSIvPjwvZz48Zz48cGF0aCBkPSJtMjMyIDM5MGgtMjRjLTMuMzEzIDAtNi0yLjY4Ni02LTZ2 LTEyYzAtOS45MjUgOC4wNzUtMTggMTgtMTggMy4zMDkgMCA2LTIuNjkyIDYtNnMtMi42OTEtNi02 LTZoLTEyYy0zLjMxMyAwLTYtMi42ODYtNi02czIuNjg3LTYgNi02aDEyYzkuOTI1IDAgMTggOC4w NzUgMTggMThzLTguMDc1IDE4LTE4IDE4Yy0zLjMwOSAwLTYgMi42OTItNiA2djZoMThjMy4zMTMg MCA2IDIuNjg2IDYgNnMtMi42ODcgNi02IDZ6IiBmaWxsPSIjZTY0MTc4Ii8+PC9nPjxnPjxwYXRo IGQ9Im0yNjUuMzMzIDM5MGMtOS45MjUgMC0xOC04LjA3NS0xOC0xOHYtMjRjMC05LjkyNSA4LjA3 NS0xOCAxOC0xOHMxOCA4LjA3NSAxOCAxOHYyNGMwIDkuOTI1LTguMDc1IDE4LTE4IDE4em0wLTQ4 Yy0zLjMwOSAwLTYgMi42OTItNiA2djI0YzAgMy4zMDggMi42OTEgNiA2IDZzNi0yLjY5MiA2LTZ2 LTI0YzAtMy4zMDgtMi42OTEtNi02LTZ6IiBmaWxsPSIjZTY0MTc4Ii8+PC9nPjwvZz48L3N2Zz4= "
+         id="image98"
+         x="33.107323"
+         y="41.76466" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5588px;line-height:1.25;font-family:Kalimati;-inkscape-font-specification:'Kalimati, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.141052"
+         x="62.007969"
+         y="183.90259"
+         id="text8684"
+         transform="scale(0.86116444,1.1612184)"><tspan
+           sodipodi:role="line"
+           id="tspan8682"
+           x="62.007969"
+           y="183.90259"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5588px;font-family:Kalimati;-inkscape-font-specification:'Kalimati, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.141052">Productive</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5588px;line-height:1.25;font-family:Kalimati;-inkscape-font-specification:'Kalimati, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.141052"
+         x="62.732372"
+         y="183.02205"
+         id="text8684-8"
+         transform="scale(0.86116444,1.1612184)"><tspan
+           sodipodi:role="line"
+           id="tspan8682-1"
+           x="62.732372"
+           y="183.02205"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.5588px;font-family:Kalimati;-inkscape-font-specification:'Kalimati, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.141052">Productive</tspan></text>
+    </g>
+  </g>
+</svg>
