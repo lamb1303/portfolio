@@ -1,5 +1,6 @@
 import React, { useRef, useEffect } from "react";
 import { ReactComponent as Down } from "./assets/down.svg";
+import { ReactComponent as CV } from "./assets/curriculum-vitae.svg";
 import about from "./assets/about.svg";
 import redux from "./assets/redux.svg";
 import goals from "./assets/goals.svg";
@@ -38,7 +39,14 @@ const About = () => {
             </p>
           </div>
           <img src={about} alt="about"></img>
-          {/* <button>Resume</button> */}
+          <CV
+            className="resume"
+            onClick={() =>
+              window.open(
+                "https://drive.google.com/file/d/1W51X4-nd5q4JncCkkpY2FznE7jb1vkIi/view"
+              )
+            }
+          />
           <Down onClick={excecuteScroll} className="about-more" />
         </div>
       </section>
